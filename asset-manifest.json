@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-Operator/static/css/main.5a540bcc.css",
+    "main.js": "/Text-Operator/static/js/main.ca8669b0.js",
+    "static/js/156.25a018d8.chunk.js": "/Text-Operator/static/js/156.25a018d8.chunk.js",
+    "index.html": "/Text-Operator/index.html",
+    "main.5a540bcc.css.map": "/Text-Operator/static/css/main.5a540bcc.css.map",
+    "main.ca8669b0.js.map": "/Text-Operator/static/js/main.ca8669b0.js.map",
+    "156.25a018d8.chunk.js.map": "/Text-Operator/static/js/156.25a018d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a540bcc.css",
+    "static/js/main.ca8669b0.js"
+  ]
+}
